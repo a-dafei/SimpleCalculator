@@ -1,0 +1,11 @@
+D:\Lcode\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+D:\Lcode\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+D:\Lcode\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+D:\Lcode\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.AssemblyReference.cache
+D:\Lcode\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.SuggestedBindingRedirects.cache
+D:\Lcode\SimpleCalculator\obj\Debug\SimpleCalculator.Form1.resources
+D:\Lcode\SimpleCalculator\obj\Debug\SimpleCalculator.Properties.Resources.resources
+D:\Lcode\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.GenerateResource.cache
+D:\Lcode\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.CoreCompileInputs.cache
+D:\Lcode\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+D:\Lcode\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
